@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+
+# Build output
+target/
+*.class
+
+# Local environment and secrets
+.env
+.env.*
