@@ -6,7 +6,7 @@ metadata:
 spec:
   providerRef:
     name: java-webhook-provider
-  eventSeverity: error
+  eventSeverity: info
   eventSources:
     - kind: Kustomization
       name: "*"
