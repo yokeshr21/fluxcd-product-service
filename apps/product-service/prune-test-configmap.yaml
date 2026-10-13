@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: flux-prune-test
-  namespace: flux-demo
-data:
-  message: "This ConfigMap is managed by Flux CD"
