@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: flux-prune-test
+  namespace: flux-system
+data:
+  message: "Testing Flux automatic pruning"
